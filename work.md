@@ -1,1 +1,1 @@
-** work in progress ** **doc will contain the work**
+** work in progress ** **doc will contain the work and documentation probably for  the lfx project**
